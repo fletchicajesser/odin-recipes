@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project with TOP in HTML! I'll be creating a recipes webpage with links to some of my favorite recipes. Concluding this project will exhibit my ability to create a webpage using HTML with links, images, and lists. I'll also be able to get practice in working with git and GitHub. 
