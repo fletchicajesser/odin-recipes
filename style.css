@@ -1,16 +1,20 @@
 * {
     font-family:'Courier New', Courier, monospace;
     background-color:lavender;
-    color: white;
+    color: rgb(2, 0, 0);
 }
 
-.recipe{
-    font-weight:bold;
-    font-size: 18px
-}
 
-title {
-    font-size: 24px;
+.title {
+    font-size: 30px;
     font-weight: bold;
+    font-style: italic;
 }
+
+.pasta, .lobster, .chicken {
+    border: 20px solid black;
+    margin: 20px;
+    padding: 5px;
+}
+
 
