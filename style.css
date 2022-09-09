@@ -10,6 +10,9 @@
     font-weight: bold;
     font-style: italic;
     text-align: center;
+    border: 25px solid black;
+    width: 200px;
+    margin: auto;
 }
 
 .pasta, .lobster, .chicken {
